@@ -1,6 +1,18 @@
 # ZohoHackathon
 ## Demo: https://youtu.be/TOD75o62RXI
 
+## Description
+
+This project is build with Zoho Creator Application. I have created an application that would help any medical store (physical store) in managing customer, employee and inventory.
+
+Key features of this application:
+1. Customer Registration : with the details like email and phone number.
+2. Order Placement : Store employee can process the request for registered medicines. (With slight modification customers can directly order if looking for online store)
+3. Medicine stock reminder: Owner gets reminder for the medicine if number below the stock requirement value.
+4. Customer Invoice : Customer receives order details/invoice after order is successfully placed.
+5. Payment : Customers can pay using UPI(QR code) or cash.
+6. Dashboard: Gives basic insight on sales (revenue), medicine stock , registered customers
+
 ## Screenshots
 
 ![reminderMail](https://user-images.githubusercontent.com/68404906/186982116-1f048afd-a846-4719-90b0-062d517fcce1.png)
